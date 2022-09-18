@@ -1,0 +1,14 @@
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\SQLiteAccess.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\SQLiteAccess.pdb
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\EntityFramework.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\System.Data.SQLite.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\EntityFramework.xml
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\bin\Debug\System.Data.SQLite.xml
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\obj\Debug\SQLiteAccess.csprojAssemblyReference.cache
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\obj\Debug\SQLiteAccess.csproj.CopyComplete
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\obj\Debug\SQLiteAccess.dll
+C:\Users\qqadclin\source\repos\SQLiteAcces\SQLiteAcces\obj\Debug\SQLiteAccess.pdb
